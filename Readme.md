@@ -45,9 +45,9 @@ The project has three main classes:
    ```
 
 ### Running the main class
-    ```bash
-    java ATM.Main
-    ```
+```bash
+java ATM.Main
+```
 
 ## Usage Instructions
 
