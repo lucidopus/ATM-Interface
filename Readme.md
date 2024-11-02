@@ -40,9 +40,9 @@ The project has three main classes:
 
 1. Clone the repository or download the files.
 2. Compile the classes:
-   ```bash
-   javac ATM/Account.java ATM/OptionMenu.java ATM/Main.java
-   ```
+```bash
+javac ATM/Account.java ATM/OptionMenu.java ATM/Main.java
+```
 
 ### Running the main class
 ```bash
